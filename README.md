@@ -5,7 +5,10 @@
 _Cultivating Tomorrow's Harvest with AI-Powered Precision_
 
 Live web address:
-**`https://ai-se-final-project-w8-msuc4wbwztmsus6nd2zsyw.streamlit.app/#root-predict-climate-resilient-yield-and-resource-planner`**
+`https://ai-se-final-project-w8-msuc4wbwztmsus6nd2zsyw.streamlit.app/#root-predict-climate-resilient-yield-and-resource-planner`.
+
+pITCHDECK LINK:`https://drive.google.com/file/d/199stNy3FkvajeLAVF4AjcGqK3hed4yJY/view?usp=sharing
+`
 
 ---
 
