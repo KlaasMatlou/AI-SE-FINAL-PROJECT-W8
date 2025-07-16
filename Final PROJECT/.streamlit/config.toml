@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#4CAF50"  # Stays vibrant green for primary elements (buttons, sliders)
+backgroundColor = "#C8E6C9"  # **NEW: Lighter, pastel green for the main background**
+secondaryBackgroundColor = "#A5D6A7" # **NEW: Medium light green for secondary backgrounds (e.g., sidebars, expanders)**
+textColor = "#1E421E"      # Dark green for text (should still be readable on new backgrounds)
+font = "sans serif"
